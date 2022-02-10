@@ -1,0 +1,22 @@
+{
+  "name": "notesapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamDera/notesApp.git"
+  },
+  "author": "Chidera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamDera/notesApp/issues"
+  },
+  "homepage": "https://github.com/iamDera/notesApp#readme",
+  "dependencies": {
+    "yargs": "^17.3.1"
+  }
+}
